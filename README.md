@@ -2,7 +2,7 @@
   <h1>Portfolio Análisis de una cartera ficticia</h1>
 
   <p align="center">
-    <img src="https://i.pinimg.com/originals/e5/53/46/e55346d539daeda80680794de7f29a93.gif](https://www.scheperfinancial.com/sites/scheperfinancial.com/files/styles/large/public/portfolio-analysis_0.jpg?itok=BTUnBqPW" width="50%" alt="">
+    <img src="[https://i.pinimg.com/originals/e5/53/46/e55346d539daeda80680794de7f29a93.gif](https://www.scheperfinancial.com/sites/scheperfinancial.com/files/styles/large/public/portfolio-analysis_0.jpg?itok=BTUnBqPW](https://www.scheperfinancial.com/sites/scheperfinancial.com/files/styles/large/public/portfolio-analysis_0.jpg?itok=BTUnBqPW)" width="50%" alt="">
     <br>
   </p>
 
